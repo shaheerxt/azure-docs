@@ -10,7 +10,7 @@ ms.author: mbender
 ---
 # Azure Networking architecture documentation
 
-This article provides information about architecture guides that can help you explore the different networking services in Azure available to you for building your applications.
+This article provides information about architecture guides that can help you explore the different networking services in Microsoft Azure available to you for building your applications.
 
 ## Networking overview
 
