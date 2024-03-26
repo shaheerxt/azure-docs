@@ -18,7 +18,7 @@ App Service adds the power of Microsoft Azure to your application, such as secur
 
 With App Service, you pay for the Azure compute resources you use. The compute resources you use are determined by the *App Service plan* that you run your apps on. For more information, see [Azure App Service plans overview](overview-hosting-plans.md).
 
-## Why use App Service?
+## Why use App Service? 
 
 Azure App Service is a fully managed platform as a service (PaaS) offering for developers. Here are some key features of App Service:
 
